@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fin_pars", "Fin_pars.csproj", "{CDB53ADC-076A-4F21-A5A8-80E305E54225}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinParser", "..\FinParser\FinParser.csproj", "{3DB8D977-91A9-4C16-9486-03D6EBB9E03A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDB53ADC-076A-4F21-A5A8-80E305E54225}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDB53ADC-076A-4F21-A5A8-80E305E54225}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDB53ADC-076A-4F21-A5A8-80E305E54225}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDB53ADC-076A-4F21-A5A8-80E305E54225}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DB8D977-91A9-4C16-9486-03D6EBB9E03A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DB8D977-91A9-4C16-9486-03D6EBB9E03A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DB8D977-91A9-4C16-9486-03D6EBB9E03A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DB8D977-91A9-4C16-9486-03D6EBB9E03A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {84747D8F-A34F-46C9-8250-CEC47B283308}
+	EndGlobalSection
+EndGlobal

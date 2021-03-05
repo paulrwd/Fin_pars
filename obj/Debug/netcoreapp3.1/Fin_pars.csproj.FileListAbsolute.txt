@@ -1,0 +1,17 @@
+C:\Users\paulr\source\repos\Fin_pars\obj\Debug\netcoreapp3.1\Fin_pars.csprojAssemblyReference.cache
+C:\Users\paulr\source\repos\Fin_pars\obj\Debug\netcoreapp3.1\Fin_pars.AssemblyInfoInputs.cache
+C:\Users\paulr\source\repos\Fin_pars\obj\Debug\netcoreapp3.1\Fin_pars.AssemblyInfo.cs
+C:\Users\paulr\source\repos\Fin_pars\obj\Debug\netcoreapp3.1\Fin_pars.csproj.CoreCompileInputs.cache
+C:\Users\paulr\source\repos\Fin_pars\bin\Debug\netcoreapp3.1\Fin_pars.exe
+C:\Users\paulr\source\repos\Fin_pars\bin\Debug\netcoreapp3.1\Fin_pars.deps.json
+C:\Users\paulr\source\repos\Fin_pars\bin\Debug\netcoreapp3.1\Fin_pars.runtimeconfig.json
+C:\Users\paulr\source\repos\Fin_pars\bin\Debug\netcoreapp3.1\Fin_pars.runtimeconfig.dev.json
+C:\Users\paulr\source\repos\Fin_pars\bin\Debug\netcoreapp3.1\Fin_pars.dll
+C:\Users\paulr\source\repos\Fin_pars\bin\Debug\netcoreapp3.1\Fin_pars.pdb
+C:\Users\paulr\source\repos\Fin_pars\bin\Debug\netcoreapp3.1\HtmlAgilityPack.dll
+C:\Users\paulr\source\repos\Fin_pars\obj\Debug\netcoreapp3.1\Fin_pars.csproj.CopyComplete
+C:\Users\paulr\source\repos\Fin_pars\obj\Debug\netcoreapp3.1\Fin_pars.dll
+C:\Users\paulr\source\repos\Fin_pars\obj\Debug\netcoreapp3.1\Fin_pars.pdb
+C:\Users\paulr\source\repos\Fin_pars\obj\Debug\netcoreapp3.1\Fin_pars.genruntimeconfig.cache
+C:\Users\paulr\source\repos\Fin_pars\bin\Debug\netcoreapp3.1\FinParser.dll
+C:\Users\paulr\source\repos\Fin_pars\bin\Debug\netcoreapp3.1\FinParser.pdb
